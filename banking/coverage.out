@@ -1,0 +1,8 @@
+mode: set
+banking\banking.go:9.55,11.2 1 1
+banking\banking.go:13.67,15.20 2 1
+banking\banking.go:15.20,17.6 1 0
+banking\banking.go:17.11,19.6 1 1
+banking\banking.go:22.13,28.19 5 0
+banking\banking.go:28.19,30.6 1 0
+banking\banking.go:30.11,32.6 1 0
